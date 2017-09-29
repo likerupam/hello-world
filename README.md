@@ -1,2 +1,4 @@
 # hello-world
-New to GitHub
+
+Hello ITER,
+Rupam here, I like coding.
